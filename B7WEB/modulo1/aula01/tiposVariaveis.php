@@ -1,0 +1,1 @@
+<h1>Tipos de Variáveis - PHP</h1>
