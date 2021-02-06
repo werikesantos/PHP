@@ -9,7 +9,10 @@
 
     <dl>
         <dt><button><a href="../modulo1/aula01/main.php">#1 - Introdução</a></button></dt>
-            <dd><button><a href="../modulo1/aula01/main.php">Observações</a></button></dd>
+            <dd><button><a href="../modulo1/aula01/main.php">Parte - a</a></button></dd>
+            <dd><button><a href="../modulo1/aula01/main.php">Parte - b</a></button></dd>
+            <dd><button><a href="../modulo1/aula01/main.php">Exercício - 01</a></button></dd>
+            <dd><button><a href="../modulo1/aula01/main.php">Exercício - 02</a></button></dd>
             <dd><button><a href="../modulo1/aula01/main.php">Anotações</a></button></dd>
         <dt><button><a href="../modulo1/aula01/main.php">#2 - Ferramentas necessárias</a></button></dt>
         <dt><button><a href="../modulo1/aula01/main.php">#3 - Editor de código (VScode)</a></button></dt>
