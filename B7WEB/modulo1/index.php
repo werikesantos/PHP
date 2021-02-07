@@ -18,7 +18,7 @@
         <dt><button><a href="../modulo1/aula01/main.php">#3 - Editor de código (VScode)</a></button></dt>
         <dt><button><a href="../modulo1/aula01/main.php">#4 - Instalando PHP (xampp)</a></button></dt>
         <dt><button><a href="../modulo1/aula01/main.php">#5 - Como funciona o PHP</a></button></dt>
-        <dt><button><a href="../modulo1/aula01/main.php">#6 - Primeiros comandos no PHP</a></button></dt>
+        <dt><button><a href="../modulo1/aula06/main.php">#6 - Primeiros comandos no PHP</a></button></dt>
         <dt><button><a href="../modulo1/aula01/main.php">#7 - Tipos de variáveis</a></button></dt>
         <dt><button><a href="../modulo1/aula01/main.php">#8 - Mesclando Variáveis</a></button></dt>
         <dt><button><a href="../modulo1/aula01/main.php">#9 - Arrays</a></button></dt>
