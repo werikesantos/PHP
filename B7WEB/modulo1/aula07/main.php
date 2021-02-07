@@ -6,8 +6,15 @@
     include_once "tiposVariaveis.php";
 
     //CLASSE DE EXECUÇÃO
+
+    //CHAMANDO OS MÉTODOS DAS OUTRAS CLASSES
     explicar();
+
+    //NESTE CASO, O RETORNO DO VALOR DO MÉTODO SERÁ ATRIBUÍDO A UMA VARIÁVEL LOCAL.
     $x = valorCampo();
+
+    //SABENDO O VALOR DA VARIÁVEL LOCAL, O MESMO SERÁ ENVIADO PARA OUTROS MÉTODOS 
+    //ONDE RECEBERÁ UM TRATAMENTO DIFERENCIADO EM CADA MÉTODO.
     somar($x);
     subtrair($x);
     multiplicar($x);

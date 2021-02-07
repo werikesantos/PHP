@@ -4,13 +4,14 @@
     //VEJA NA CLASSE 'main.php' COMO ELA CHAMA ESSE MÉTODO PELO NOME.
     //AO SER CHAMADA EM OUTRO ARQUIVO, SERÁ EXECUTADO TUDO O QUE ESTÁ DENTRO DESSE MÉTODO.
     function explicar(){
-        echo 'Veja esse exeplo abaixo para entender como funciona a atribuição dos valores:<br><br>';
+        echo '<h3>Acompanhe e estude as anotações dos códigos do módulo 01 -  aula 07!</h3>';
+        echo 'Veja esse exemplo abaixo para entender como funciona a atribuição dos valores:<br><br>';
         echo 'x = 10 <br>x + 2 = 12<br>x = ?';
         echo '<br><br>A letra (x) será chamada de variável, pois receberá um determinado valor.';
         echo '<br>Ou seja, a letra passa a receber o valor 10.';
         echo '<br>Agora sabendo o valor de (x), qual será o seu resultado final?';
-        echo '<br>Se você respondeu (12), acerto!<br>';
-        echo '<br>Veja, isso aconteceu pois a variável (x) na primeira linha recebeu o valor 10 e depois foi somado +2';
+        echo '<br>Se você respondeu (12), acertou!<br>';
+        echo '<br>Veja, isso aconteceu pois a variável (x), na primeira linha recebeu o valor 10 e depois foi somado +2';
         echo '<br>Totalizando no número 12!';
     }
 
