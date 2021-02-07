@@ -4,7 +4,6 @@
     //VEJA NA CLASSE 'main.php' COMO ELA CHAMA ESSE MÉTODO PELO NOME.
     //AO SER CHAMADA EM OUTRO ARQUIVO, SERÁ EXECUTADO TUDO O QUE ESTÁ DENTRO DESSE MÉTODO.
     function explicar(){
-        echo '<h3>Acompanhe e estude as anotações dos códigos do módulo 01 -  aula 07!</h3>';
         echo 'Veja esse exemplo abaixo para entender como funciona a atribuição dos valores:<br><br>';
         echo 'x = 10 <br>x + 2 = 12<br>x = ?';
         echo '<br><br>A letra (x) será chamada de variável, pois receberá um determinado valor.';
