@@ -20,7 +20,7 @@
         <dt><button><a href="../modulo1/aula01/main.php">#5 - Como funciona o PHP</a></button></dt>
         <dt><button><a href="../modulo1/aula06/main.php">#6 - Primeiros comandos no PHP</a></button></dt>
         <dt><button><a href="../modulo1/aula07/main.php">#7 - Tipos de variáveis</a></button></dt>
-        <dt><button><a href="../modulo1/aula01/main.php">#8 - Mesclando Variáveis</a></button></dt>
+        <dt><button><a href="../modulo1/aula08/main.php">#8 - Mesclando Variáveis</a></button></dt>
         <dt><button><a href="../modulo1/aula01/main.php">#9 - Arrays</a></button></dt>
         <dt><button><a href="../modulo1/aula01/main.php">#10 - Operador Arrays Spreed</a></button></dt>
         <dt><button><a href="../modulo1/aula01/main.php">#11 - Exercício Prático</a></button></dt>
