@@ -3,7 +3,7 @@
         <h1>Módulos</h1>
         <dl>
             <dt><button><a href="../modulo1/index.php">Módulo 1 - Introdução</a></button></dt>
-            <dt><button><a href="#">Módulo 2</a></button></dt>
+            <dt><button><a href="../modulo2/index.php">Módulo 2 - Condicionais e Loops</a></button></dt>
             <dt><button><a href="#">Módulo 3</a></button></dt>
             <dt><button><a href="#">Módulo 4</a></button></dt>
             <dt><button><a href="#">Módulo 5</a></button></dt>
@@ -17,7 +17,3 @@
         </dl>
 
     </header>
-
-
-
-
